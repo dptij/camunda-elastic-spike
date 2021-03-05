@@ -1,0 +1,12 @@
+camunda.bpm:
+  admin-user:
+    id: demo
+    password: demo
+    firstName: Demo
+  filter:
+    create: All tasks
+elastic-search:
+  id: TODO
+  key: TODO
+  cloudId: TODO
+  index-name: TODO
